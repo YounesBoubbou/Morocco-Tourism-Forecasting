@@ -1,0 +1,21 @@
+============================================================
+MOROCCO TOURISM ANALYSIS REPORT
+============================================================
+Generated on: 2025-09-10 20:15
+
+OVERVIEW:
+• Data period: 1995-01 to 2020-12
+• Total months: 312
+• Average monthly arrivals: 656,284
+• Peak month: 1,713,249
+• Lowest month: 130,845
+
+YEARLY TRENDS:
+• Average yearly growth: 3.8%
+• Best performing year: 2019 (14,400,469 arrivals)
+• Highest growth year: 2007 (23.3%)
+
+SEASONAL PATTERNS:
+• Peak season: April (887,317 avg arrivals)
+• Low season: January (452,251 avg arrivals)
+• Seasonality factor: 2.0x difference
